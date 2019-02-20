@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WelcomeLogin</string>
+    <!--sign in-->
+    <string name="title_top_signin">Sign In</string>
+    <string name="title_bottom_signin">Login to your account</string>
+    <string name="sign_in_user_name">Username or e-mail</string>
+    <string name="sign_in_password">Password</string>
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in_facebook">LOGIN WITH FACEBOOK</string>
+    <string name="sign_in_google">LOGIN WITH GOOGLE</string>
+    <string name="dont_have_account">Don\'t you have an account?</string>
+    <string name="sign_up_now">Sign up Now!</string>
+    <string name="keep_me_sign">Keep me Signed</string>
+    <!--sign up-->
+    <string name="title_top_signup">Sign up</string>
+    <string name="title_bottom_signup">Create a new account</string>
+    <string name="sign_up_fullname">Full name</string>
+    <string name="sign_up_email">E-mail Address</string>
+    <string name="sign_up_phone_number">Phone number</string>
+    <string name="sign_up_create_pwd">Create password</string>
+    <string name="sign_up_confirm_pwd">Confirm password</string>
+    <string name="have_account">Allready have an account?</string>
+    <string name="sign_in_now">Sign in Now!</string>
+    <string name="sign_up_button">SIGN UP</string>
+</resources>

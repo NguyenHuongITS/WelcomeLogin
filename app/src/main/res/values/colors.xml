@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--custom-->
+    <color name="background">#23beff</color>
+    <color name="sign_title">#fff</color>
+    <color name="text_color">#a0b9c0</color>
+    <color name="text_color_hide">#acacac</color>
+    <color name="color_facebook_left">#3b5998</color>
+    <color name="color_facebook_right">#5071af</color>
+    <color name="color_google_left">#f1574a</color>
+    <color name="color_google_right">#e85a43</color>
+    <color name="text_color_white">#fff</color>
+    <color name="text_color_black">#000</color>
+    <color name="text_color_blue">#23beff</color>
+</resources>
